@@ -1,0 +1,80 @@
+k = 0.01
+Perplexity on train data: 73.67
+Perplexity on validation data: 359.74
+
+k = 0.06210526315789474
+Perplexity on train data: 172.34
+Perplexity on validation data: 472.04
+
+k = 0.11421052631578947
+Perplexity on train data: 247.44
+Perplexity on validation data: 563.20
+
+k = 0.16631578947368422
+Perplexity on train data: 314.18
+Perplexity on validation data: 640.72
+
+k = 0.21842105263157896
+Perplexity on train data: 375.73
+Perplexity on validation data: 709.66
+
+k = 0.2705263157894737
+Perplexity on train data: 433.47
+Perplexity on validation data: 772.48
+
+k = 0.32263157894736844
+Perplexity on train data: 488.16
+Perplexity on validation data: 830.62
+
+k = 0.37473684210526315
+Perplexity on train data: 540.28
+Perplexity on validation data: 884.98
+
+k = 0.4268421052631579
+Perplexity on train data: 590.17
+Perplexity on validation data: 936.20
+
+k = 0.4789473684210527
+Perplexity on train data: 638.10
+Perplexity on validation data: 984.76
+
+k = 0.5310526315789474
+Perplexity on train data: 684.25
+Perplexity on validation data: 1030.99
+
+k = 0.5831578947368421
+Perplexity on train data: 728.81
+Perplexity on validation data: 1075.19
+
+k = 0.6352631578947369
+Perplexity on train data: 771.89
+Perplexity on validation data: 1117.56
+
+k = 0.6873684210526316
+Perplexity on train data: 813.62
+Perplexity on validation data: 1158.30
+
+k = 0.7394736842105263
+Perplexity on train data: 854.09
+Perplexity on validation data: 1197.56
+
+k = 0.791578947368421
+Perplexity on train data: 893.39
+Perplexity on validation data: 1235.46
+
+k = 0.8436842105263158
+Perplexity on train data: 931.60
+Perplexity on validation data: 1272.12
+
+k = 0.8957894736842106
+Perplexity on train data: 968.78
+Perplexity on validation data: 1307.62
+
+k = 0.9478947368421053
+Perplexity on train data: 1005.00
+Perplexity on validation data: 1342.07
+
+k = 1.0
+Perplexity on train data: 1040.30
+Perplexity on validation data: 1375.52
+
